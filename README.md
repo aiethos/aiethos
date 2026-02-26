@@ -8,12 +8,12 @@ AIETHOS is a governance framework for organizations that use third-party AI tool
 
 | File | What it is |
 |------|-----------|
-| `docs/framework-overview.md` | Credo, 7 pillars, success metrics |
-| `docs/quick-start.md` | Step-by-step implementation guide |
-| `docs/self-assessment.md` | 8-question maturity check |
-| `templates/ai-map-template.csv` | AI tool inventory spreadsheet |
-| `templates/ai-check-template.md` | Pre-publication checklist |
-| `templates/ai-note-template.md` | Issue reporting template |
+| `docs/framework_overview.md` | Credo, 7 pillars, success metrics |
+| `docs/quick_start.md` | Step-by-step implementation guide |
+| `docs/self_assessment.md` | 8-question maturity check |
+| `templates/ai_map_template.csv` | AI tool inventory spreadsheet |
+| `templates/ai_check.md` | Pre-publication checklist |
+| `templates/ai_note.md` | Issue reporting template |
 
 All templates are in the `templates/` directory.
 
