@@ -28,9 +28,9 @@ See `docs/quick-start.md` for details.
 
 ## Start here
 
-**[Quick Start](docs/quick-start.md)** — implement AIETHOS in one session.
+**[Quick Start](docs/quick_start.md)** — implement AIETHOS in one session.
 
-**[Framework Overview](docs/framework-overview.md)** — understand the full framework.
+**[Framework Overview](docs/framework_overview.md)** — understand the full framework.
 
 
 ## Contributing
