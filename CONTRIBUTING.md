@@ -4,7 +4,7 @@ AIETHOS is a framework of templates and practices. Contributions are documents, 
 
 ## What you can contribute
 
-- **Industry variants** — adapted templates for specific sectors (healthcare, HR, education, legal). Add as a new file alongside the core template, e.g. `ai-check-hr.md`.
+- **Industry variants** — adapted templates for specific sectors (healthcare, HR, education, legal). Add as a new file alongside the core template, e.g. `ai_check_hr.md`.
 - **Translations** — full translations of templates and docs into other languages.
 - **Integrations** — practical notes on using AIETHOS with specific tools (Notion, Airtable, Confluence).
 - **Corrections** — factual errors, outdated regulatory references, clarity improvements.
