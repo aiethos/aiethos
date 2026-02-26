@@ -42,7 +42,7 @@ Name one person to own AI ethics and responsible use across your organization.
 
 List every AI tool your organization uses in a spreadsheet.
 
-**Template**: `templates/ai-map-template.csv`
+**Template**: `templates/ai_map_template.csv`
 
 **Columns to fill**:
 
@@ -73,9 +73,9 @@ List every AI tool your organization uses in a spreadsheet.
 
 ## Step 3 — Implement AI Check and AI Note
 
-**AI Check**: Use before publishing content or using AI output in important decisions. Template: `templates/ai-check-template.md`
+**AI Check**: Use before publishing content or using AI output in important decisions. Template: `templates/ai_check.md`
 
-**AI Note**: Provide to all employees for reporting issues. Template: `templates/ai-note-template.md`
+**AI Note**: Provide to all employees for reporting issues. Template: `templates/ai_note.md`
 
 **Done when**: templates are accessible and the team knows when to use them.
 
